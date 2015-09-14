@@ -1,8 +1,7 @@
 'fileTypes': [
-  'gitignore'
-  'conf'
+  'lang'
 ]
-'name': 'Generic Configuration'
+'name': 'Mozilla Lang l10n format'
 'patterns': [
   {
     'include': '#comment'
